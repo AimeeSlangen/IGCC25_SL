@@ -6,6 +6,6 @@ This repository contains the AR6 sea level reconstruction data (in the folder AR
 
 Please note that in this version of the python notebook the addition of the Mu et al tide gauge reconstruction (https://essd.copernicus.org/articles/17/5507/2025/essd-17-5507-2025.pdf) to figure 1a is commented out, because the dataset is too large to store here. This dataset can be downloaded at https://doi.org/10.5281/zenodo.15385035. 
 
-A thank you to Sonke Dangendorf, Jinping Wang and John Church for sharing their tide gauge reconstructions. Also thanks to AVISO, Ben Hamlington (NASA JPL) and Steve Nerem (Univ Colorado) for updating and sharing the satellite altimetry data. 
+A thank you to Sonke Dangendorf, Jinping Wang and John Church, and Dapeng Mu for sharing their tide gauge reconstructions. Also thanks to AVISO, Ben Hamlington (NASA JPL) and Steve Nerem (Univ Colorado) for updating and sharing the satellite altimetry data. 
 
 
